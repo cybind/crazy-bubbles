@@ -1,4 +1,4 @@
-crazy-bubbles
+Crazy Bubbles
 =============
 
 PhoneGap by Example
