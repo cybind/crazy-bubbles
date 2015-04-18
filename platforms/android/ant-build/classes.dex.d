@@ -1,0 +1,22 @@
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes.dex : \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes/com/cybind/crazybubbles/BuildConfig.class \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes/com/cybind/crazybubbles/CordovaApp.class \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes/com/cybind/crazybubbles/R$attr.class \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes/com/cybind/crazybubbles/R$drawable.class \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes/com/cybind/crazybubbles/R$string.class \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes/com/cybind/crazybubbles/R$xml.class \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes/com/cybind/crazybubbles/R.class \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes/com/vladstirbu/cordova/CDVInstagramPlugin$1.class \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes/com/vladstirbu/cordova/CDVInstagramPlugin.class \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing$1.class \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing$2$1$1.class \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing$2$1.class \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing$2.class \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing$3.class \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing$SocialSharingRunnable.class \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes/nl/xservices/plugins/SocialSharing.class \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes/org/apache/cordova/statusbar/StatusBar$1.class \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes/org/apache/cordova/statusbar/StatusBar$2.class \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes/org/apache/cordova/statusbar/StatusBar$3.class \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/classes/org/apache/cordova/statusbar/StatusBar.class \
+/Users/cybind/Projects/phonegap-by-example/crazy-bubbles2/platforms/android/ant-build/dexedLibs/classes-73afa24b2bdec14f9c06f3783f4f22e7.jar \
