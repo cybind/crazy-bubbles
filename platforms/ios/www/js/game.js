@@ -32,7 +32,7 @@ function create() {
     scoreText = game.add.text(20, game.world.height - 40, 'score: 0', { font: "20px Arial", fill: "#ffffff", align: "left" });
 
     gameOverText = game.add.text(game.world.centerX, 100, 'Game Over!', { font: "40px Arial", fill: "#ffffff", align: "center" });
-    // gameOverText.visible = false;
+    gameOverText.visible = false;
     gameOverText.anchor.setTo(0.5, 0.5);
 
     // used to disable input while bubbles are dropping down and respawning
@@ -485,7 +485,7 @@ function gameOver() {
 
     window.allowInput = false;
 
-    // document.getElementById('game-over').style.display = "block";
+    document.getElementById('game-over').style.display = "block";
 
 }
 
