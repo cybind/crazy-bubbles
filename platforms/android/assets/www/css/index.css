@@ -112,7 +112,7 @@ canvas {
 }
 
 #game-over {
-    /*display: none;*/
+    display: none;
     position: absolute;
     width: 100%;
     text-align: center;
